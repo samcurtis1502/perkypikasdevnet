@@ -1,0 +1,28 @@
+"root":{7 items
+"key":int4
+"updateAuthority":string"9bdXDLNhEqFdsSf9o76tNS43iGyZD9v23pb5tgTvv6Ao"
+"mint":string"5psfXMoS17KMD72QQMiDZHg5xtHVPurYnDfeoyF53rto"
+"data":{5 items
+"name":string"Pika NFT #3289"
+"symbol":string"pika"
+"uri":string"https://arweave.net/A04cBVX4ajw-gG1CPuMEzKGUd6_kCmMzL1U23qqbM98"
+"sellerFeeBasisPoints":int500
+"creators":[2 items
+0:{3 items
+"address":string"4vnRV3yQjaXAdqP7DEq6rR5c6Cxf2HZRFt6C26fZczwg"
+"verified":int1
+"share":int0
+}
+1:{3 items
+"address":string"9bdXDLNhEqFdsSf9o76tNS43iGyZD9v23pb5tgTvv6Ao"
+"verified":int0
+"share":int100
+}
+]
+}
+"primarySaleHappened":int1
+"isMutable":int1
+"type":string"metaplex"
+}
+LOGO SOLANA
+Powered by Solana Blockchain
