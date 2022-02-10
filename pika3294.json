@@ -1,0 +1,53 @@
+{
+    "name": "Pika NFT #3294 - updated",
+    "symbol": "pika",
+    "description": "Updated BABYYY",
+    "seller_fee_basis_points": 500,
+    "image": "https://raw.githubusercontent.com/samcurtis1502/perkypikasdevnet/main/Charizard.png",
+    "external_url": "https://perkypikas.com",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Purple Stripes"
+        },
+        {
+            "trait_type": "Skins",
+            "value": "Skeleton"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Blue Jersey"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Red Eyes"
+        },
+        {
+            "trait_type": "Hats",
+            "value": "Weed Sweatband"
+        }
+    ],
+    "collection": {
+        "name": "Perky Pikas",
+        "family": "Perky Pikas"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/samcurtis1502/perkypikasdevnet/main/Charizard.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9bdXDLNhEqFdsSf9o76tNS43iGyZD9v23pb5tgTvv6Ao",
+                "share": 100
+            }
+        ]
+    }
+}
